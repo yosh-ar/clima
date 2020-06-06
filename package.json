@@ -1,0 +1,23 @@
+{
+  "name": "aplicacion-clima",
+  "version": "1.0.0",
+  "description": "sera una aplicación para ver el clima en diferentes paises",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosh-ar/clima.git"
+  },
+  "author": "Josué Argueta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosh-ar/clima/issues"
+  },
+  "homepage": "https://github.com/yosh-ar/clima#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "yargs": "^15.3.1"
+  }
+}
